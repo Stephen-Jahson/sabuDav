@@ -1,0 +1,38 @@
+body{
+    background-color: ;
+}
+
+#head1{
+    border-style: dashed;
+}
+#mision{
+    border: solid;
+}
+#con{
+    border: solid;
+    height: 10pc;
+}
+#orders{
+    border-radius:50% ;
+}
+#products{
+    border-radius: 10%;
+}
+#submit{
+    width: 100px;
+    border-radius: 15%;
+}
+#p-name{
+    width: 600px;
+}
+#amount{
+    width: 600px;
+}
+#map{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container iframe{
+    width: 100%;
+}
